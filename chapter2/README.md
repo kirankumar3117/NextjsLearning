@@ -14,3 +14,5 @@ http://localhost:300/product/id
 useRouter() from next/router for accessing the route 
 
 onething i understood is it renders HTML page first
+
+
