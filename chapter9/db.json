@@ -1,0 +1,21 @@
+{
+    "products":[
+    {
+        "id":1,
+        "name":"vikarabadh",
+        "price":4000,
+        "discount":10
+    },
+    {
+        "id":2,
+        "name":"hunuman junction",
+        "price":1500,
+        "discount":15
+    },
+   {
+        "id":3,
+        "name":"rajamundry",
+        "price":8000,
+        "discount":8
+    }]
+}
